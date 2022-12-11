@@ -1,0 +1,30 @@
+C:\Users\Oleksandr\Desktop\Exam3\bin\Debug\net6.0\Exam3.exe
+C:\Users\Oleksandr\Desktop\Exam3\bin\Debug\net6.0\Exam3.deps.json
+C:\Users\Oleksandr\Desktop\Exam3\bin\Debug\net6.0\Exam3.runtimeconfig.json
+C:\Users\Oleksandr\Desktop\Exam3\bin\Debug\net6.0\Exam3.dll
+C:\Users\Oleksandr\Desktop\Exam3\bin\Debug\net6.0\Exam3.pdb
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\Exam3.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\Exam3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\Exam3.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\Exam3.AssemblyInfo.cs
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\Exam3.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\Exam3.dll
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\refint\Exam3.dll
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\Exam3.pdb
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\Exam3.genruntimeconfig.cache
+C:\Users\Oleksandr\Desktop\Exam3\obj\Debug\net6.0\ref\Exam3.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\bin\Debug\net6.0\Exam3.exe
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\bin\Debug\net6.0\Exam3.deps.json
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\bin\Debug\net6.0\Exam3.runtimeconfig.json
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\bin\Debug\net6.0\Exam3.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\bin\Debug\net6.0\Exam3.pdb
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\Exam3.csproj.AssemblyReference.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\Exam3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\Exam3.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\Exam3.AssemblyInfo.cs
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\Exam3.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\Exam3.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\refint\Exam3.dll
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\Exam3.pdb
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\Exam3.genruntimeconfig.cache
+C:\Users\Oleksandr\OneDrive\LaSalle\2nd Term\Object - Oriented Programming Concepts 420-CT2-AS\Assignments\2022.10.20_Midterm_Exam\Exam3\obj\Debug\net6.0\ref\Exam3.dll
