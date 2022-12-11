@@ -21,7 +21,7 @@ foreach(int i in arr){
 }
 Console.WriteLine();
 
-Console.WriteLine("Which elements in the array are you searching?: ");
+Console.Write("Which elements in the array are you searching?: ");
 int searchElement = Convert.ToInt32(Console.ReadLine());
 for(int i = 0; i < num; i++){
     if(searchElement == arr[i]){
@@ -30,7 +30,7 @@ for(int i = 0; i < num; i++){
 }
 
 
-Console.WriteLine("Replace it with what?: ");
+Console.Write("Replace it with what?: ");
 int replaceElement = Convert.ToInt32(Console.ReadLine());
 for(int i = 0; i < num; i++){
     if(searchElement == arr[i]){
